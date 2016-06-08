@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:45.422838
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:03
 #+TITLE: 七千佛神符經
 #+PROPERTY: CBETA_ID T85n2904
 #+PROPERTY: ID KR6u0040
